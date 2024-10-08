@@ -1,0 +1,14 @@
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\bin\Debug\net8.0\teste_2.exe
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\bin\Debug\net8.0\teste_2.deps.json
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\bin\Debug\net8.0\teste_2.runtimeconfig.json
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\bin\Debug\net8.0\teste_2.dll
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\bin\Debug\net8.0\teste_2.pdb
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\obj\Debug\net8.0\teste_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\obj\Debug\net8.0\teste_2.AssemblyInfoInputs.cache
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\obj\Debug\net8.0\teste_2.AssemblyInfo.cs
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\obj\Debug\net8.0\teste_2.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\obj\Debug\net8.0\teste_2.dll
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\obj\Debug\net8.0\refint\teste_2.dll
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\obj\Debug\net8.0\teste_2.pdb
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\obj\Debug\net8.0\teste_2.genruntimeconfig.cache
+C:\Users\Isaac Risola\Desktop\teste\teste\teste_2\obj\Debug\net8.0\ref\teste_2.dll
